@@ -1,0 +1,56 @@
+.Plants-page
+{
+    background-color: hsl(90, 84%, 62%);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Seeds-page
+{
+    background-color:#ceeff5 ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.Service-page
+{
+    background-color:#ceeff5 ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.ReturnGift-page
+{
+    background-color:hsl(90, 84%, 62%) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.footer-page
+{
+    background-color:white ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.9;
+}
+.contact-section {
+    padding: 60px 0;
+  }
+  footer {
+    background-color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  .carousel-caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    text-decoration-style:dotted ;
+  }
+  .card:active {
+    box-shadow: 0 4px 8px #43dc8733, 0 6px 20px #4f76d133;
+    transition: box-shadow 0.2s ease-in-out;
+  }
